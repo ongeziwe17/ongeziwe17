@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Ongeziwe J. Mtolo (Ongeziwe17)
 
-I'm a passionate and driven ICT graduate student specializing in **DevOps Engineering**, **Cloud Engineering**, and **Software Development**. I'm currently gaining hands-on experience as a DevOps Engineer Graduate at one of Africa’s leading betting solutions company.
+I'm a passionate and driven ICT graduate student specializing in **DevOps Engineering**, **Site Reliabilty Engineering**, and **Cloud Engineering**. I'm currently gaining hands-on experience as a DevOps Engineer Graduate at one of Africa’s leading betting solutions company.
 
 🚀 **What I’m About**  
 - 🧠 Passionate about **DevOps practices**, **Cloud Solutions (AWS | Azure | GCP | IBM)**, and **Software Engineering**  
