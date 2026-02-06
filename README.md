@@ -3,8 +3,8 @@
 I'm a passionate and driven ICT graduate student specializing in **DevOps Engineering**, **Site Reliabilty Engineering**, and **Cloud Engineering**. I'm currently gaining hands-on experience as a DevOps Engineer Graduate at one of Africa’s leading betting solutions company.
 
 🚀 **What I’m About**  
-- 🧠 Passionate about **DevOps practices**, **Cloud Solutions (AWS | Azure | GCP | IBM)**, and **Software Engineering**  
-- 💻 Skilled in **Java**, **Python**, and modern **DevOps tooling (Scripting | Version Control | Containerization | GitHub Workflows and ADO Pipelines)**  
+- 🧠 Passionate about **DevOps practices**, **Infrastructure Solutions (On-Prem and Cloud)**, and **Software Engineering**  
+- 💻 Skilled in **Java**, **Python**, and modern **DevOps tooling ( Version Control | CI/CD Pipelines | Containerization | Orchestration | GitOps)**  
 - ⚙️ Exploring **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **Containerization and Orchestration (Docker & Kubernetes)**  
 - 🌱 Currently studying **ICT in Applications Development - Advanced Diploma** level at Cape Peninsula University of Technology  
 - 🌹 Strong advocate of open-source collaboration and continuous improvement 
